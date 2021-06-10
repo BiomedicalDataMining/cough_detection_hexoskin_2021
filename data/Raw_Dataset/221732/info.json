@@ -1,0 +1,23 @@
+{
+    "request": "/api/data/?record=221732",
+    "start": 414980636601,
+    "user": 19280,
+    "algo": {
+        "id": 133,
+        "created": "2020-11-23T22:09:30.415432",
+        "resource_uri": "/api/algo/133/",
+        "algorithms": {
+            "activity_detection": "2.1.0",
+            "sleep_position": "2.1.0",
+            "sleep_phase": "2.1.0",
+            "acceleration": "2.1.0",
+            "hrv": "2.1.0",
+            "respiration": "2.2.0",
+            "ecg": "2.1.1"
+        },
+        "record_id": 221732
+    },
+    "decoder_version": "0.9.1",
+    "start_date": "2021-05-14T18:48:31.722656",
+    "timestamp": 1621018111.7226562
+}
